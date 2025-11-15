@@ -53,12 +53,3 @@ I'm Kaique, a Software Engineer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" />
 </div>
 
-###
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clashzin/clashzin/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/clashzin/clashzin/output/github-contribution-grid-snake.svg">
-    <img alt="snake_gif" src="https://raw.githubusercontent.com/clashzin/clashzin/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
