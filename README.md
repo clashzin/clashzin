@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.discordapp.net/attachments/1435844637683089488/1439192519517671537/tux-linux-tux.gif?ex=69199ffb&is=69184e7b&hm=a11f6e66b22c308994fc41ccdef96fc0f6d62c27847cdc9109548b9976796837&=" />
+  <img height="150" src="https://cdn.victims.bio/files/tux-linux-tux-607e567e64e030b135a4afa974054874.gif" />
 </div>
 
 ###
