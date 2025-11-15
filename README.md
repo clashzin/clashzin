@@ -24,8 +24,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">
-I'm Kaique, a Software Engineer focused on automations, bots and modern web development.<br><br>
-- 🔭 I’m currently working on bots, automations and web apps<br>
+I'm Kaique, a Software Engineer.
 </p>
 
 ###
