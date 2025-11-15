@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO_AQUI" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=clashzin" />
 </div>
 
 ###
