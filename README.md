@@ -1,6 +1,5 @@
-<div align="center">
+
   <img height="150" src="https://cdn.victims.bio/files/tux-linux-tux-607e567e64e030b135a4afa974054874.gif" />
-</div>
 
 ###
 
