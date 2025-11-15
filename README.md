@@ -60,5 +60,5 @@ I'm Kaique, a Software Engineer.
 
 ###
 
-![snake gif](https://github.com/clashzin/clashzin/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/clashzin/blob/output/github-contribution-grid-snake.svg)
 ###
